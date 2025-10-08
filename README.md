@@ -96,21 +96,6 @@ Timestamp, CPU%, RAM%, GPU%, GPU Mem MB, Upload KB/s, Download KB/s, Disk%, Disk
 
 ---
 
-## Example Screenshot (Terminal)
-
-```
-┌───────────── CPU Usage ─────────────┐
-█▇▇▆▆▄▃▂░░░ 45% ▁▂▃▄▅▆▇█
-└───────────────────────────────────┘
-┌───────────── RAM Usage ─────────────┐
-███▇▇▆▄▃▂░░░ 60% ▁▂▃▄▅▆▇█
-└───────────────────────────────────┘
-...
-[Settings Button]  Footer: Clock
-```
-
----
-
 ## Notes
 
 * Works on **Linux, Windows, macOS**.
