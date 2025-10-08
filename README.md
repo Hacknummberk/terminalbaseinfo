@@ -25,14 +25,14 @@ Supports **server mode**, showing real-time network activity and ping logs.
 1. **Clone repository or copy files**:
 
 ```bash
-git clone <repo_url>
-cd system_dashboard
+git clone https://github.com/Hacknummberk/terminalbaseinfo.git
+cd terminalbaseinfo
 ```
 
 2. **Create Python virtual environment** (recommended):
 
 ```bash
-python3 -m venv .venv
+python3 -m venv .venv      # if you need also need for debian or linux
 source .venv/bin/activate  # Linux/macOS
 .venv\Scripts\activate     # Windows
 ```
